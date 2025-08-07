@@ -1,1 +1,9 @@
 
+snscrape
+facebook-scraper
+keybert
+transformers
+torch
+newspaper3k
+googlesearch-python
+PyYAML
